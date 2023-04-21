@@ -1,4 +1,4 @@
-package com.example.mskc
+package net.chikach.mskc
 
 import io.flutter.embedding.android.FlutterActivity
 
